@@ -193,7 +193,7 @@ Analise-churn-bancario
 
 ---
 
-## 👤 Autor
+## Autor
 
 **Santiago Casseca**
 [LinkedIn](www.linkedin.com/in/santiago-casseca)
